@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'monografia-online-petri-net-simulator.blg'
+[39] biber:340> INFO - === Mon Jul 14, 2025, 19:19:02
+[52] Biber.pm:419> INFO - Reading 'monografia-online-petri-net-simulator.bcf'
+[82] Biber.pm:979> INFO - Found 22 citekeys in bib section 0
+[88] Biber.pm:4419> INFO - Processing section 0
+[95] Biber.pm:4610> INFO - Looking for bibtex file 'referencias.bib' for section 0
+[96] bibtex.pm:1713> INFO - LaTeX decoding ...
+[110] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
+[187] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[187] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[187] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[187] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-BR'
+[201] bbl.pm:660> INFO - Writing 'monografia-online-petri-net-simulator.bbl' with encoding 'UTF-8'
+[205] bbl.pm:763> INFO - Output to monografia-online-petri-net-simulator.bbl
+[205] Biber.pm:131> WARN - legacy month field 'dec' in entry 'Lima2008' is not an integer - this will probably not sort properly.
+[205] Biber.pm:131> WARN - legacy month field 'March' in entry 'Dingle2009PIPE2' is not an integer - this will probably not sort properly.
+[205] Biber.pm:133> INFO - WARNINGS: 2

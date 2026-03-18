@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Online Petri Net Simulator</title>
-    <link rel="stylesheet" href="app/styles/style.css">
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
 </head>
 <body>
     <div id="app">
@@ -26,19 +27,19 @@
             <canvas id="petri-net-canvas" width="1600" height="650"></canvas>
         </div>
     </div>
-    <script src="app/scripts/buttons.js"></script>
-    <script src="app/scripts/moveElements.js"></script>  
-    <script src="app/scripts/insideElement.js"></script>
-    <script src="app/scripts/addElements.js"></script>
-    <script src="app/scripts/render.js"></script>
-    <script src="app/scripts/variables.js"></script>
-    <script src="app/scripts/styles.js"></script>
-    <script src="app/scripts/cursorStyle.js"></script>
-    <script src="app/scripts/deleteElements.js"></script>
-    <script src="app/scripts/saveLoadNet.js"></script>
-    <script src="app/scripts/editElements.js"></script>
-    <script src="app/scripts/simulation.js"></script>
-    <script src="app/scripts/script.js"></script>
+    <script src="{% static 'js/buttons.js' %}"></script>
+    <script src="{% static 'js/moveElements.js' %}"></script>  
+    <script src="{% static 'js/insideElement.js' %}"></script>
+    <script src="{% static 'js/addElements.js' %}"></script>
+    <script src="{% static 'js/render.js' %}"></script>
+    <script src="{% static 'js/variables.js' %}"></script>
+    <script src="{% static 'js/styles.js' %}"></script>
+    <script src="{% static 'js/cursorStyle.js' %}"></script>
+    <script src="{% static 'js/deleteElements.js' %}"></script>
+    <script src="{% static 'js/saveLoadNet.js' %}"></script>
+    <script src="{% static 'js/editElements.js' %}"></script>
+    <script src="{% static 'js/simulation.js' %}"></script>
+    <script src="{% static 'js/script.js' %}"></script>
     <div id="messageToUser"></div>
     <div id = "devInformation">
         <a href="https://github.com/douglasmbarbosa/tcc-petri-net-simulator" >link to github project</a>

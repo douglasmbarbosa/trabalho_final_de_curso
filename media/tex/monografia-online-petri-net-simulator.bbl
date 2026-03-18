@@ -1,0 +1,822 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{CassandrasLafortune08}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7dd349abebd258362b8f14a38e12272c}{%
+           family={Cassandras},
+           familyi={C\bibinitperiod},
+           given={Christos\bibnamedelima G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d254ddd569262e8cffbb335d51b9ec59}{%
+           family={Lafortune},
+           familyi={L\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{13bce8d1629e7df04f8f2574a43742da}
+      \strng{fullhash}{13bce8d1629e7df04f8f2574a43742da}
+      \strng{bibnamehash}{13bce8d1629e7df04f8f2574a43742da}
+      \strng{authorbibnamehash}{13bce8d1629e7df04f8f2574a43742da}
+      \strng{authornamehash}{13bce8d1629e7df04f8f2574a43742da}
+      \strng{authorfullhash}{13bce8d1629e7df04f8f2574a43742da}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The book provides a comprehensive introduction to the field of discrete event systems, offering a breadth of coverage that makes the material accessible to readers of varied backgrounds. The book emphasizes a unified modeling framework that transcends specific application areas, linking the following topics in a coherent manner: language and automata theory, supervisory control, Petri net theory, Markov chains and queueing theory, discrete-event simulation, and concurrent estimation techniques.}
+      \field{edition}{2}
+      \field{isbn}{978-0-387-33332-8}
+      \field{title}{Introduction to Discrete Event Systems}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1007/978-0-387-68612-7
+      \endverb
+      \verb{file}
+      \verb SpringerLink:2008/CassandrasLafortune08.pdf:PDF;Springer Product page:http\://www.springer.com/978-0-387-33332-8:URL;Amazon Search inside:http\://www.amazon.de/gp/reader/0387333320/:URL
+      \endverb
+      \keyw{01624 103 springer book computer science system engineering theory format concurrent design simulation zzz.cps}
+    \endentry
+    \entry{coutinho1992terceira}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0a5fa117a3ba6280be74ed3c6190fd8a}{%
+           family={Coutinho},
+           familyi={C\bibinitperiod},
+           given={Luciano},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidade Estadual de Campinas (UNICAMP), Instituto de Economia}%
+      }
+      \strng{namehash}{0a5fa117a3ba6280be74ed3c6190fd8a}
+      \strng{fullhash}{0a5fa117a3ba6280be74ed3c6190fd8a}
+      \strng{bibnamehash}{0a5fa117a3ba6280be74ed3c6190fd8a}
+      \strng{authorbibnamehash}{0a5fa117a3ba6280be74ed3c6190fd8a}
+      \strng{authornamehash}{0a5fa117a3ba6280be74ed3c6190fd8a}
+      \strng{authorfullhash}{0a5fa117a3ba6280be74ed3c6190fd8a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economia e sociedade}
+      \field{number}{1}
+      \field{title}{A terceira revolução industrial e tecnológica. As grandes tendências das mudanças}
+      \field{volume}{1}
+      \field{year}{1992}
+      \field{pages}{69}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://periodicos.sbu.unicamp.br/ojs/index.php/ecos/article/view/8643306
+      \endverb
+      \verb{url}
+      \verb https://periodicos.sbu.unicamp.br/ojs/index.php/ecos/article/view/8643306
+      \endverb
+    \endentry
+    \entry{Dingle2009PIPE2}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2a0d8e01da9f7f462cd037c676c4e9ed}{%
+           family={Dingle},
+           familyi={D\bibinitperiod},
+           given={N.\bibnamedelimi J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=913ff017d20ca637151040633fa5cbd6}{%
+           family={Knottenbelt},
+           familyi={K\bibinitperiod},
+           given={W.\bibnamedelimi J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43c9934b0bfaf3bfe86f7b6a85632a1e}{%
+           family={Suto},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d293bad3b8d2f979aa051d52b874f600}
+      \strng{fullhash}{d293bad3b8d2f979aa051d52b874f600}
+      \strng{bibnamehash}{d293bad3b8d2f979aa051d52b874f600}
+      \strng{authorbibnamehash}{d293bad3b8d2f979aa051d52b874f600}
+      \strng{authornamehash}{d293bad3b8d2f979aa051d52b874f600}
+      \strng{authorfullhash}{d293bad3b8d2f979aa051d52b874f600}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM SIGMETRICS Performance Evaluation Review}
+      \field{month}{3}
+      \field{note}{(Special Issue on Tools for Computer Performance Modelling and Reliability Analysis)}
+      \field{number}{4}
+      \field{title}{{PIPE2: A Tool for the Performance Evaluation of Generalised Stochastic Petri Nets}}
+      \field{volume}{36}
+      \field{year}{2009}
+      \field{pages}{34\bibrangedash 39}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb https://www.doc.ic.ac.uk/~wjk/publications/dingle-knottenbelt-suto-per-2009.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.doc.ic.ac.uk/~wjk/publications/dingle-knottenbelt-suto-per-2009.pdf
+      \endverb
+    \endentry
+    \entry{ebac_diagrama_fluxo}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=46c7baa0f2bc86938f841347ab7641a6}{%
+           family={{EBAC - Escola Britânica de Artes Criativas e Tecnologia}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{46c7baa0f2bc86938f841347ab7641a6}
+      \strng{fullhash}{46c7baa0f2bc86938f841347ab7641a6}
+      \strng{bibnamehash}{46c7baa0f2bc86938f841347ab7641a6}
+      \strng{authorbibnamehash}{46c7baa0f2bc86938f841347ab7641a6}
+      \strng{authornamehash}{46c7baa0f2bc86938f841347ab7641a6}
+      \strng{authorfullhash}{46c7baa0f2bc86938f841347ab7641a6}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 16 jun. 2023}
+      \field{title}{Diagrama de fluxo de SEO}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://ebaconline.com.br/blog/diagrama-de-fluxo-seo
+      \endverb
+      \verb{url}
+      \verb https://ebaconline.com.br/blog/diagrama-de-fluxo-seo
+      \endverb
+    \endentry
+    \entry{frances2003introduccao}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=22d856fcdc41b56f5711ac3c5d84fd0d}{%
+           family={Francês},
+           familyi={F\bibinitperiod},
+           given={Carlos\bibnamedelimb Renato\bibnamedelima Lisboa},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{22d856fcdc41b56f5711ac3c5d84fd0d}
+      \strng{fullhash}{22d856fcdc41b56f5711ac3c5d84fd0d}
+      \strng{bibnamehash}{22d856fcdc41b56f5711ac3c5d84fd0d}
+      \strng{authorbibnamehash}{22d856fcdc41b56f5711ac3c5d84fd0d}
+      \strng{authornamehash}{22d856fcdc41b56f5711ac3c5d84fd0d}
+      \strng{authorfullhash}{22d856fcdc41b56f5711ac3c5d84fd0d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Laboratório de Computação Aplicada, Universidade Federal do Pará}
+      \field{title}{Introdução às redes de petri}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb https://www.dca.ufrn.br/~affonso/FTP/DCA409/redes_de_petri.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dca.ufrn.br/~affonso/FTP/DCA409/redes_de_petri.pdf
+      \endverb
+    \endentry
+    \entry{git_docs}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bcc70105ad279503e31fe7b3f47b665}{%
+           family={{Git}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Git}%
+      }
+      \strng{namehash}{0bcc70105ad279503e31fe7b3f47b665}
+      \strng{fullhash}{0bcc70105ad279503e31fe7b3f47b665}
+      \strng{bibnamehash}{0bcc70105ad279503e31fe7b3f47b665}
+      \strng{authorbibnamehash}{0bcc70105ad279503e31fe7b3f47b665}
+      \strng{authornamehash}{0bcc70105ad279503e31fe7b3f47b665}
+      \strng{authorfullhash}{0bcc70105ad279503e31fe7b3f47b665}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Git Documentation}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://git-scm.com/docs/git
+      \endverb
+      \verb{url}
+      \verb https://git-scm.com/docs/git
+      \endverb
+    \endentry
+    \entry{apoGithub}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=726671b2ad6675ff34c38ce9df16ce97}{%
+           family={Jagusch},
+           familyi={J\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{726671b2ad6675ff34c38ce9df16ce97}
+      \strng{fullhash}{726671b2ad6675ff34c38ce9df16ce97}
+      \strng{bibnamehash}{726671b2ad6675ff34c38ce9df16ce97}
+      \strng{authorbibnamehash}{726671b2ad6675ff34c38ce9df16ce97}
+      \strng{authornamehash}{726671b2ad6675ff34c38ce9df16ce97}
+      \strng{authorfullhash}{726671b2ad6675ff34c38ce9df16ce97}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/stromhalm/apo}}
+      \field{title}{APO - Accessible Petri Net Operations}
+      \field{year}{2023}
+    \endentry
+    \entry{inproceedings}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=443d9e05cb86e9e0f8f20ceddbdc5def}{%
+           family={Kadri},
+           familyi={K\bibinitperiod},
+           given={Farid},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff1fb5b2c2b4c02d69b73eb456501641}{%
+           family={Lallement},
+           familyi={L\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4475389d849e3d9a6149f8b557da5af0}{%
+           family={Chatelet},
+           familyi={C\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{db3bfc17dfaad74a052e6c9bd162e04c}
+      \strng{fullhash}{db3bfc17dfaad74a052e6c9bd162e04c}
+      \strng{bibnamehash}{db3bfc17dfaad74a052e6c9bd162e04c}
+      \strng{authorbibnamehash}{db3bfc17dfaad74a052e6c9bd162e04c}
+      \strng{authornamehash}{db3bfc17dfaad74a052e6c9bd162e04c}
+      \strng{authorfullhash}{db3bfc17dfaad74a052e6c9bd162e04c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{06}
+      \field{title}{The Quantitative Risk Assessment of domino effect on Industrial Plants Using Colored Stochastic Petri Nets}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/236035686_The_Quantitative_Risk_Assessment_of_domino_effect_on_Industrial_Plants_Using_Colored_Stochastic_Petri_Nets
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/236035686_The_Quantitative_Risk_Assessment_of_domino_effect_on_Industrial_Plants_Using_Colored_Stochastic_Petri_Nets
+      \endverb
+    \endentry
+    \entry{Lima2008}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=23bfb217e6553f849fab876b08e68361}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={Evangivaldo\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a450e7c673206551143e8f1b45df7d2b}{%
+           family={Lüders},
+           familyi={L\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a353034f6006002ad15e8890fb78df77}{%
+           family={Künzle},
+           familyi={K\bibinitperiod},
+           given={Luis\bibnamedelima Allan},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {pt}%
+      }
+      \list{publisher}{1}{%
+        {Sociedade Brasileira de Automática}%
+      }
+      \strng{namehash}{00db24021351a014868e7746856ab87d}
+      \strng{fullhash}{00db24021351a014868e7746856ab87d}
+      \strng{bibnamehash}{00db24021351a014868e7746856ab87d}
+      \strng{authorbibnamehash}{00db24021351a014868e7746856ab87d}
+      \strng{authornamehash}{00db24021351a014868e7746856ab87d}
+      \strng{authorfullhash}{00db24021351a014868e7746856ab87d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Controle \& Automação}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Uma abordagem intervalar para a caracterização de intervalos de disparo em redes de Petri temporais}
+      \field{volume}{19}
+      \field{year}{2008}
+      \field{pages}{379\bibrangedash 394}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1590/S0103-17592008000400002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scielo.br/j/ca/a/T4CZRXt4Lwd9RkNHgm5fnxQ/?lang=pt
+      \endverb
+      \verb{url}
+      \verb https://www.scielo.br/j/ca/a/T4CZRXt4Lwd9RkNHgm5fnxQ/?lang=pt
+      \endverb
+    \endentry
+    \entry{educomp}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3c41ad34a79046df9058569d59cb26d9}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={John\bibnamedelimb Wesley\bibnamedelima Soares},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=60ed3d6beb3bf97823cd81a1713bd30d}{%
+           family={Falcão},
+           familyi={F\bibinitperiod},
+           given={Taciana},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6fc214b362c84ea16ec60ca64ec0279}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Ermeson},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {On-line}%
+      }
+      \list{publisher}{1}{%
+        {SBC}%
+      }
+      \strng{namehash}{b77036e134714f5ebb766d4cc98bf1cb}
+      \strng{fullhash}{b77036e134714f5ebb766d4cc98bf1cb}
+      \strng{bibnamehash}{b77036e134714f5ebb766d4cc98bf1cb}
+      \strng{authorbibnamehash}{b77036e134714f5ebb766d4cc98bf1cb}
+      \strng{authornamehash}{b77036e134714f5ebb766d4cc98bf1cb}
+      \strng{authorfullhash}{b77036e134714f5ebb766d4cc98bf1cb}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Anais do Simpósio Brasileiro de Educação em Computação}
+      \field{issn}{0000-0000}
+      \field{title}{TryRdP: uma Ferramenta para o Aprendizado de Modelagem de Sistemas usando Redes de Petri}
+      \field{year}{2021}
+      \field{pages}{362\bibrangedash 370}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.5753/educomp.2021.14504
+      \endverb
+      \verb{urlraw}
+      \verb https://sol.sbc.org.br/index.php/educomp/article/view/14504
+      \endverb
+      \verb{url}
+      \verb https://sol.sbc.org.br/index.php/educomp/article/view/14504
+      \endverb
+    \endentry
+    \entry{lins2013evoluccao}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8200eacb241b72c62e5606006ee1329f}{%
+           family={Lins},
+           familyi={L\bibinitperiod},
+           given={Bernardo\bibnamedelimb Felipe\bibnamedelima Estellita},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8200eacb241b72c62e5606006ee1329f}
+      \strng{fullhash}{8200eacb241b72c62e5606006ee1329f}
+      \strng{bibnamehash}{8200eacb241b72c62e5606006ee1329f}
+      \strng{authorbibnamehash}{8200eacb241b72c62e5606006ee1329f}
+      \strng{authornamehash}{8200eacb241b72c62e5606006ee1329f}
+      \strng{authorfullhash}{8200eacb241b72c62e5606006ee1329f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cadernos Aslegis}
+      \field{title}{A evolução da Internet: uma perspectiva histórica}
+      \field{volume}{48}
+      \field{year}{2013}
+      \field{pages}{11\bibrangedash 45}
+      \range{pages}{35}
+    \endentry
+    \entry{Macoratti2014}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e9349f32fc018409d77ea37b12eddced}{%
+           family={Macoratti},
+           familyi={M\bibinitperiod},
+           given={José\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e9349f32fc018409d77ea37b12eddced}
+      \strng{fullhash}{e9349f32fc018409d77ea37b12eddced}
+      \strng{bibnamehash}{e9349f32fc018409d77ea37b12eddced}
+      \strng{authorbibnamehash}{e9349f32fc018409d77ea37b12eddced}
+      \strng{authornamehash}{e9349f32fc018409d77ea37b12eddced}
+      \strng{authorfullhash}{e9349f32fc018409d77ea37b12eddced}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.macoratti.net/14/05/c_vpc1.htm}}
+      \field{note}{Acessado em 28 de maio de 2025}
+      \field{title}{Verificando a relação de um ponto e uma circunferência}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.macoratti.net/14/05/c_vpc1.htm
+      \endverb
+      \verb{url}
+      \verb https://www.macoratti.net/14/05/c_vpc1.htm
+      \endverb
+    \endentry
+    \entry{Manzoni2013}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8fd509e3e982e699a1aa8f626d9e14e}{%
+           family={Manzoni},
+           familyi={M\bibinitperiod},
+           given={Raymond},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c8fd509e3e982e699a1aa8f626d9e14e}
+      \strng{fullhash}{c8fd509e3e982e699a1aa8f626d9e14e}
+      \strng{bibnamehash}{c8fd509e3e982e699a1aa8f626d9e14e}
+      \strng{authorbibnamehash}{c8fd509e3e982e699a1aa8f626d9e14e}
+      \strng{authornamehash}{c8fd509e3e982e699a1aa8f626d9e14e}
+      \strng{authorfullhash}{c8fd509e3e982e699a1aa8f626d9e14e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Mathematics Stack Exchange}
+      \field{note}{URL:https://math.stackexchange.com/q/190373 (version: 2023-02-14)}
+      \field{title}{How to check if a point is inside a rectangle?}
+      \field{year}{2013}
+      \verb{eprint}
+      \verb https://math.stackexchange.com/q/190373
+      \endverb
+      \verb{urlraw}
+      \verb https://math.stackexchange.com/q/190373
+      \endverb
+      \verb{url}
+      \verb https://math.stackexchange.com/q/190373
+      \endverb
+    \endentry
+    \entry{mdn_css}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eace3534eb86e51f9a1db37427425ce9}{%
+           family={{MDN Web Docs}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDN Web Docs}%
+      }
+      \strng{namehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{fullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{bibnamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorbibnamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authornamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorfullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CSS}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://developer.mozilla.org/pt-BR/docs/Web/CSS
+      \endverb
+      \verb{url}
+      \verb https://developer.mozilla.org/pt-BR/docs/Web/CSS
+      \endverb
+    \endentry
+    \entry{mdn_mousedown_event}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eace3534eb86e51f9a1db37427425ce9}{%
+           family={{MDN Web Docs}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{fullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{bibnamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorbibnamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authornamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorfullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-05-22}
+      \field{title}{Element: mousedown event - Web APIs | MDN}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://developer.mozilla.org/en-US/docs/Web/API/Element/mousedown_event
+      \endverb
+      \verb{url}
+      \verb https://developer.mozilla.org/en-US/docs/Web/API/Element/mousedown_event
+      \endverb
+    \endentry
+    \entry{mdn_mouseup_event}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eace3534eb86e51f9a1db37427425ce9}{%
+           family={{MDN Web Docs}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{fullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{bibnamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorbibnamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authornamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorfullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-05-22}
+      \field{title}{Element: mousedown event - Web APIs | MDN}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseup_event
+      \endverb
+      \verb{url}
+      \verb https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseup_event
+      \endverb
+    \endentry
+    \entry{mdn_mousemove_event}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eace3534eb86e51f9a1db37427425ce9}{%
+           family={{MDN Web Docs}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{fullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{bibnamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorbibnamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authornamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorfullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \field{extraname}{4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-05-22}
+      \field{title}{Element: mousemove event - Web APIs | MDN}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event
+      \endverb
+      \verb{url}
+      \verb https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event
+      \endverb
+    \endentry
+    \entry{mdn_local_storage}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eace3534eb86e51f9a1db37427425ce9}{%
+           family={{MDN Web Docs}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{fullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{bibnamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorbibnamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authornamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorfullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \field{extraname}{5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-05-22}
+      \field{title}{Element: Window.localStorage - Web APIs | MDN}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+      \endverb
+      \verb{url}
+      \verb https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+      \endverb
+    \endentry
+    \entry{mdn_html}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eace3534eb86e51f9a1db37427425ce9}{%
+           family={{MDN Web Docs}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDN Web Docs}%
+      }
+      \strng{namehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{fullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{bibnamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorbibnamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authornamehash}{eace3534eb86e51f9a1db37427425ce9}
+      \strng{authorfullhash}{eace3534eb86e51f9a1db37427425ce9}
+      \field{extraname}{6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{HTML: Linguagem de Marcação de Hipertexto}
+      \field{urlday}{22}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://developer.mozilla.org/pt-BR/docs/Web/HTML
+      \endverb
+      \verb{url}
+      \verb https://developer.mozilla.org/pt-BR/docs/Web/HTML
+      \endverb
+    \endentry
+    \entry{inbook}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f8e0a2f6d63e326e73439cc971405864}{%
+           family={Penha},
+           familyi={P\bibinitperiod},
+           given={Dulcinéia},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9159b14ef065f9caa25c35387a949aa}{%
+           family={Freitas},
+           familyi={F\bibinitperiod},
+           given={Henrique},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ccf417d34fe3df372c4df40d8cda51b}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{24538c90801ef40bcb6a8447985f028f}
+      \strng{fullhash}{24538c90801ef40bcb6a8447985f028f}
+      \strng{bibnamehash}{24538c90801ef40bcb6a8447985f028f}
+      \strng{authorbibnamehash}{24538c90801ef40bcb6a8447985f028f}
+      \strng{authornamehash}{24538c90801ef40bcb6a8447985f028f}
+      \strng{authorfullhash}{24538c90801ef40bcb6a8447985f028f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Modelagem de Sistemas Computacionais usando Redes de Petri: aplicação em projeto, análise e avaliação}
+      \field{year}{2004}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/228538729_Modelagem_de_Sistemas_Computacionais_usando_Redes_de_Petri_aplicacao_em_projeto_analise_e_avaliacao
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/228538729_Modelagem_de_Sistemas_Computacionais_usando_Redes_de_Petri_aplicacao_em_projeto_analise_e_avaliacao
+      \endverb
+    \endentry
+    \entry{petri1962kommunikation}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ad3d952bb11bfac7d97d4c6454d948b2}{%
+           family={Petri},
+           familyi={P\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {TU Darmstadt}%
+      }
+      \strng{namehash}{ad3d952bb11bfac7d97d4c6454d948b2}
+      \strng{fullhash}{ad3d952bb11bfac7d97d4c6454d948b2}
+      \strng{bibnamehash}{ad3d952bb11bfac7d97d4c6454d948b2}
+      \strng{authorbibnamehash}{ad3d952bb11bfac7d97d4c6454d948b2}
+      \strng{authornamehash}{ad3d952bb11bfac7d97d4c6454d948b2}
+      \strng{authorfullhash}{ad3d952bb11bfac7d97d4c6454d948b2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{sheet}
+      \field{title}{Kommunikation mit Automaten}
+      \field{type}{phdthesis}
+      \field{year}{1962}
+      \keyw{dnb}
+    \endentry
+    \entry{PIPEGitHub}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1b9ad1469016f0774f627cee3863ea3a}{%
+           family={Tattersall},
+           familyi={T\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c466655729e58ff933dfac5721d636f}{%
+           family={Contributors},
+           familyi={C\bibinitperiod},
+           given={PIPE},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3aa6702a5e58d571eb5833e1b67e146a}
+      \strng{fullhash}{3aa6702a5e58d571eb5833e1b67e146a}
+      \strng{bibnamehash}{3aa6702a5e58d571eb5833e1b67e146a}
+      \strng{authorbibnamehash}{3aa6702a5e58d571eb5833e1b67e146a}
+      \strng{authornamehash}{3aa6702a5e58d571eb5833e1b67e146a}
+      \strng{authorfullhash}{3aa6702a5e58d571eb5833e1b67e146a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/sarahtattersall/PIPE}}
+      \field{title}{{PIPE: Platform Independent Petri Net Editor}}
+      \field{year}{2015}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

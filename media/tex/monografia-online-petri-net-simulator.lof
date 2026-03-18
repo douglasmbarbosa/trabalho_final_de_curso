@@ -1,0 +1,48 @@
+\babel@toc {brazil}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Exemplo de diagrama de fluxo}}{14}{figure.1.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Rede de Petri Simples - Parte 1}}{17}{figure.2.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Rede de Petri Simples - Parte 2}}{18}{figure.2.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Rede de Petri Simples - Parte 3}}{18}{figure.2.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Embalamento e venda de fardos de garrafas por meio de redes de Petri}}{19}{figure.2.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Cores dos tipos de transição}}{20}{figure.2.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Rede de Petri Temporizada - Estágio 1}}{20}{figure.2.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Rede de Petri Temporizada - Estágio 2}}{21}{figure.2.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Rede de Petri Temporizada - Estágio 3}}{21}{figure.2.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Rede de Petri Colorida}}{22}{figure.2.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Rede de Petri Estocástica}}{23}{figure.2.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Interface do simulador PIPE}}{26}{figure.2.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Repositório no Github do PIPE}}{27}{figure.2.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Interface do simulador APO}}{27}{figure.2.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Repositório no Github do APO}}{28}{figure.2.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Interface do simulador TryRdP}}{29}{figure.2.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Título no topo e ao centro da página}}{31}{figure.3.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Mouse estilo default}}{32}{figure.3.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Mouse estilo default}}{33}{figure.3.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Mousemove desenhando arco}}{33}{figure.3.20}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Mouse estilo grabbing}}{35}{figure.3.21}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Diagrama de fluxo para criação de um lugar}}{37}{figure.3.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Clicando bo botao Add Place}}{37}{figure.3.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Diagrama de fluxo para criação de uma transição}}{40}{figure.3.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Clicando bo botao addTransition}}{40}{figure.3.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Diagrama de fluxo para criação de um Arco}}{46}{figure.3.26}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Área canvas}}{47}{figure.3.27}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Lugar P1 renderizado na tela}}{49}{figure.3.28}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Renderização da transição T1 de forma não ativada e ativada}}{50}{figure.3.29}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Arco normal e inibidor}}{52}{figure.3.30}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Arco com pontos intermediários}}{53}{figure.3.31}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Elementos mal distribuídos e movimentados para uma melhor visualização.}}{54}{figure.3.32}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Transição representada no plano cartesiano.}}{55}{figure.3.33}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Diagrama de fluxo para deletar um elemento}}{59}{figure.3.34}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Caixa de confirmação para exclusão da rede por completo}}{61}{figure.3.35}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Diagrama de fluxo para deletar a rede por completo}}{62}{figure.3.36}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Tela para exportação da rede de Petri}}{63}{figure.3.37}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Tela para importação da rede de Petri}}{63}{figure.3.38}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Dados persistidos no localStorage}}{65}{figure.3.39}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Movimentando as marcações - Parte 1}}{70}{figure.3.40}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Movimentando as marcações - Parte 2}}{70}{figure.3.41}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Movimentando as marcações - Parte 3}}{70}{figure.3.42}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Repositório Github}}{71}{figure.3.43}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Projeto criado na plataforma Netlyfy}}{71}{figure.3.44}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Domínio personalizado na plataforma Hostinger}}{72}{figure.3.45}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Domínio personalizado configurado na plataforma Netlify}}{72}{figure.3.46}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Certificado SSL/TLS configurado na plataforma Netlify}}{73}{figure.3.47}%
